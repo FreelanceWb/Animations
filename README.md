@@ -7,4 +7,4 @@ Simple Animations and Effects using HTML5 and CSS
 
 [Circle Link](https://freelancewb.github.io/Animations/Circle)
 
-[Nav Menu](https://freelancewb.github.io/Animations/Навігаційне меню)
+[Nav Menu Link](https://freelancewb.github.io/Animations/Навігаційне меню)

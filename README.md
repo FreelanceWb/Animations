@@ -1,4 +1,5 @@
 # Animations
+
 Simple Animations and Effects using HTML5 and CSS
 
 [Card Link](https://freelancewb.github.io/Animations/Card)
@@ -8,3 +9,5 @@ Simple Animations and Effects using HTML5 and CSS
 [Circle Link](https://freelancewb.github.io/Animations/Circle)
 
 [Nav Menu Link](https://freelancewb.github.io/Animations/Navigation)
+
+[Text Slice](https://freelancewb.github.io/Animations/TextSlices)

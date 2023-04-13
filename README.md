@@ -10,6 +10,6 @@ Simple Animations and Effects using HTML5 and CSS
 
 [Nav Menu Link](https://freelancewb.github.io/Animations/Navigation)
 
-[Text Slice](https://freelancewb.github.io/Animations/TextSlices)
-
 [Social Icons](https://freelancewb.github.io/Animations/SocialIcons)
+
+[Text Slice](https://freelancewb.github.io/Animations/TextSlices)
